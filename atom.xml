@@ -39,24 +39,22 @@
   </entry>
   
   <entry>
-    <title>文章名称</title>
-    <link href="/2020/03/04/lovesaisai/"/>
-    <id>/2020/03/04/lovesaisai/</id>
-    <published>2020-03-04T12:50:43.482Z</published>
-    <updated>2020-03-06T09:03:32.604Z</updated>
+    <title>一张小纸条</title>
+    <link href="/2020/03/06/lovesaisai/"/>
+    <id>/2020/03/06/lovesaisai/</id>
+    <published>2020-03-05T16:00:00.000Z</published>
+    <updated>2020-03-06T15:12:23.494Z</updated>
     
     <summary type="html">
     
-      文章描述，即要在首页显示的摘要（仅部分主题支持）
+      唱一首写不完的歌，荡漾着爱的音符。
     
     </summary>
     
       <category term="日记" scheme="/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
-      <category term="文章标签一" scheme="/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%E4%B8%80/"/>
-    
-      <category term="文章标签二" scheme="/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%E4%BA%8C/"/>
+      <category term="小纸条" scheme="/tags/%E5%B0%8F%E7%BA%B8%E6%9D%A1/"/>
     
   </entry>
   
